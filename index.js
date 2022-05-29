@@ -63,6 +63,7 @@ const users = [firstUser, secondUser];
 // ! JANGAN MODIFIKASI LINE DI BAWAH
 function main() {
     console.log(users.length || users.size);
+    
     console.log(users);
 }
 
